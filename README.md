@@ -1,4 +1,4 @@
-# Gousto
+# Guss
 
 Requirments which I have not included in the project are:
 
